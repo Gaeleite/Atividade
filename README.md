@@ -106,8 +106,6 @@ com.example.campeonato.CampeonatoApiApplication
 ## 📝 Autores
 
 - João Gabriel Leite Silva
-- Paulo Roberto
-- Matheus Maranhão
 
 Instituto Federal do Maranhão - IFMA Monte Castelo
 
