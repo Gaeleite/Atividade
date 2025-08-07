@@ -1,0 +1,9 @@
+edu\ifma\dcomp\lpweb\campeonato\controller\PartidaController.class
+edu\ifma\dcomp\lpweb\campeonato\mapper\EstadioMapper.class
+edu\ifma\dcomp\lpweb\campeonato\controller\CampeonatoController.class
+edu\ifma\dcomp\lpweb\campeonato\controller\ResultadoController.class
+edu\ifma\dcomp\lpweb\campeonato\mapper\CampeonatoMapper.class
+edu\ifma\dcomp\lpweb\campeonato\CampeonatoApplication.class
+edu\ifma\dcomp\lpweb\campeonato\controller\JogadorController.class
+edu\ifma\dcomp\lpweb\campeonato\controller\EstadioController.class
+edu\ifma\dcomp\lpweb\campeonato\controller\TimeController.class
